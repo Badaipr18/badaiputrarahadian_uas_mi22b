@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Honda ADV",
+      "price": 23000000,
+      "category": "AT",
+      "image": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/ahm-explore-side-view-tough-mattebrown-03112023-074815.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Magnam, delectus."
+    },
+    {
+      "id": "2",
+      "name": "Honda CBR",
+      "price": 50000000,
+      "category": "MT",
+      "image": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-400x300-ys-3-19092022-074605.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Magnam, delectus."
+    },
+    {
+      "id": "3",
+      "name": "Vario 256",
+      "price": 35000000,
+      "category": "AT",
+      "image": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-vario-125-04062024-094941.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Magnam, delectus."
+    },
+    {
+      "id": "4",
+      "name": "Supra Bapak",
+      "price": 13000000,
+      "category": "MT",
+      "image": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-new-supra-x-5-04032022-102907.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Magnam, delectus."
+    },
+    {
+      "name": "Sonic ",
+      "price": "28.000.000",
+      "category": "MT",
+      "image": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/sonic-150r-2-27052021-092049.png",
+      "description": "Sonic Wadededddddd",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "name": "CRF150L",
+      "price": "36.700.000",
+      "category": "MT",
+      "image": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-motor-new-crf150l-1-25102021-084848.png",
+      "description": "crf jengat jengat"
+    },
+    {
+      "id": "7",
+      "name": "Beat",
+      "price": "19.000.000",
+      "category": "AT",
+      "image": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-beat-3-03062024-050824.png",
+      "description": "beat emak gila"
+    },
+    {
+      "id": "8",
+      "name": "Genio",
+      "price": "20.000.000",
+      "category": "AT",
+      "image": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-acc-6-25072023-093811.png",
+      "description": "geniooo"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "AT"
+    },
+    {
+      "id": "2",
+      "name": "MT"
+    }
+  ]
+}
